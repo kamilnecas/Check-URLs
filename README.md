@@ -11,8 +11,8 @@ Script checks accessibility of URLs provided by user.
 
 ## Output Sample
 Accessible URLs: 3</b>
-|- https://www.facebook.com/</b>
-|- https://www.youtube.com/
-|- http://www.google.com/
+\|- https://www.facebook.com/</b>
+\|- https://www.youtube.com/
+\|- http://www.google.com/
 Non-accessible URLs: 1
-|- http://error
+\|- http://error
