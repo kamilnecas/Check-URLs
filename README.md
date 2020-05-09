@@ -10,9 +10,9 @@ Script checks accessibility of URLs provided by user.
 * Summary report includes validated overview of accessible and non-accessible URLs and their total counts.
 
 ## Output Sample
-Accessible URLs: 3</b>
-\|- https://www.facebook.com/</b>
-\|- https://www.youtube.com/
+<p>Accessible URLs: 3<\b></p>
+<p>|- https://www.facebook.com/</b></p>
+<p>|- https://www.youtube.com/</p>
 \|- http://www.google.com/
 Non-accessible URLs: 1
 \|- http://error
