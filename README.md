@@ -8,11 +8,3 @@ Script checks accessibility of URLs provided by user.
 ## Output
 * Result is saved into txt file named "urls_output.txt".
 * Summary report includes validated overview of accessible and non-accessible URLs and their total counts.
-
-## Output Sample
-Accessible URLs: 3
-- https://www.facebook.com/
-- https://www.youtube.com/
-- http://www.google.com/
-Non-accessible URLs: 1
-- http://error
