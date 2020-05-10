@@ -1,5 +1,5 @@
 # Check-URLs
-Script checks accessibility of URLs provided by user.
+Script checks accessibility of URLs provided by user. It was created on OS Windows.
 
 ## Input
 * URLs have to provided via txt file named "urls_input.txt" and stored in same location as script.
