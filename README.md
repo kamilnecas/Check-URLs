@@ -7,4 +7,4 @@ Script checks accessibility of URLs provided by user.
 
 ## Output
 * Result is saved into txt file named "urls_output.txt".
-* Summary report includes validated overview of accessible and non-accessible URLs and their total counts.
+* Report includes validated overview of accessible and non-accessible URLs and their total counts.
